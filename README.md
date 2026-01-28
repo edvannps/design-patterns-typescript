@@ -51,7 +51,7 @@ npm run format
 Os padrões estão organizados em três categorias principais:
 
 ### Padrões Criacionais (Creational Patterns)
-- [ ] Singleton
+- [x] Singleton
 - [ ] Factory Method
 - [ ] Abstract Factory
 - [ ] Builder

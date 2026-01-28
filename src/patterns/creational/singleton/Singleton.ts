@@ -6,7 +6,7 @@
  */
 
 export class Singleton {
-  private static instance: Singleton | null = null;
+  private static instance: Singleton;
   private data: string;
 
   // Construtor privado impede instanciação direta
